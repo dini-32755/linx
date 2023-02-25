@@ -1,5 +1,5 @@
 import time, sys, os                                                                                                                                                                                                                                                                                          
-#print('ola'
+#print('boas bem vindo a este site')
 
 print('\033[32mrun-user1╰(*°▽°*)╯\033[m')
 
