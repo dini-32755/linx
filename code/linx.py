@@ -21,7 +21,7 @@ print('\033[32mstartup succesefull\033[m')
 res= pyg.figlet_format("Welcome to Linx!", font = "speed")   
 print(res)
 
-while 1 == 1:
+while True:
     action1 = str(input('\033[32muser1 - \033[m''\033[1;35m$ \033[m'))
     
     if action1 == '--help':
